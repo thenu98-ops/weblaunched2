@@ -57,7 +57,7 @@ export function RobotAnimation() {
         }
         return prev + 5;
       });
-    }, 4000);
+    }, 100);
     return () => clearInterval(interval);
   }, []);
 
