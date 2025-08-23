@@ -36,7 +36,7 @@ export function App() {
 
     // Redirect AFTER animation is done (e.g. 5s)
     setTimeout(() => {
-      window.location.href = 'https://eric-web-gamma.vercel.app/#';
+      window.location.href = 'https://foe.kdu.ac.lk/societies/eric/';
     }, 5000); // 👈 adjust delay here
   };
 
